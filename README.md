@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lalith Veerabhadrappa Badiger. I completed Master of Data Science from The University of Queensland, Australia in June 2022. I am a Microsoft Certified Data Analyst Associate with expertise in Power BI and Azure cloud computing.
-- 👀 I’m interested in finding insights from raw data and to implement End-to-End projects that solves real world problems creating a positive impact to the company and the society we live in.
-- 🌱 I’m  fascinated about Machine Learning, Deep Learning and building sophisticated yet easy-to-understand visualizations/dashboards.
+- 👋 Hi, I’m Lalith Badiger. I have over three years of experience in the IT industry and have completed my **Master of Data Science** program at The University of Queensland based in Australia. I am a **Microsoft Certified: Data Analyst Associate** with expertise in Power BI and Azure. Additionally, I am a **Google Cloud Certified: Professional Data Engineer** and **Google Cloud Certified: Professional Machine Learning Engineer**. I am also proficient in Python, SQL, MS Excel, Machine Learning and Deep Learning. 
+- 👀 I’m interested in finding insights from raw data and implementing End-to-End Data Science projects that solve real-world problems creating a positive impact on the organization and the society we live in.
+- 🌱 I love working on Generative AI with experience in LLM Prompt Engineering, LangChain, Vector Embeddings, Retrieval Augmented Generation (RAG), and Diffusion models.
 - 📫 You can reach me at lalithbv@gmail.com | LinkedIn: https://www.linkedin.com/in/lalithbv/
 
 
